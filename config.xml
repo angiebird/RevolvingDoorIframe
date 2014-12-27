@@ -53,7 +53,7 @@
     <access origin="*"/>
 
     <gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.9.0">
-        <param name="APP_ID" value="1505618116376825" />
+        <param name="APP_ID" value="566372370173048" />
         <param name="APP_NAME" value="RevolvingDoor" />
     </gap:plugin>
 </widget>
